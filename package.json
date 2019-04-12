@@ -1,0 +1,22 @@
+{
+  "name": "word-guess-cli",
+  "version": "1.0.0",
+  "description": "A word guessing command-line game created using constructor functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Byrnetp/word-guess-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Byrnetp/word-guess-cli/issues"
+  },
+  "homepage": "https://github.com/Byrnetp/word-guess-cli#readme",
+  "dependencies": {
+    "inquirer": "6.2.2"
+  }
+}
