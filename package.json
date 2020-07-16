@@ -18,6 +18,6 @@
   "homepage": "https://github.com/Byrnetp/word-guess-cli#readme",
   "dependencies": {
     "inquirer": "6.2.2",
-    "lodash": "4.17.13"
+    "lodash": "4.17.19"
   }
 }
